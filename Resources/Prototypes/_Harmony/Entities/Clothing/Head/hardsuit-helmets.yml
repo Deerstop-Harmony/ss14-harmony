@@ -32,8 +32,12 @@
     clothingVisuals:
       head:
       - state: equipped-head
+      - state: equipped-head-unshaded
+        shader: unshaded
       head-vox:
       - state: equipped-head-vox
+      - state: equipped-head-vox-unshaded
+        shader: unshaded
   - type: PointLight
     color: yellow
   - type: PressureProtection
