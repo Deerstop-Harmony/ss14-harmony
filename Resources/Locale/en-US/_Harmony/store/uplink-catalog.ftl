@@ -15,3 +15,6 @@ uplink-hyposhell-desc = A box containing four hyposhells, shotgun shells that ca
 
 uplink-defib-name = Interdyne Defibrillator
 uplink-defib-desc = A compact defibrillator. It can be used to revive your fellow comrades, or as an effective melee weapon! You should probably throw away your acidifier if you expect to use this.
+
+uplink-syndie-voidsuit-name = Tactical Voidsuit
+uplink-syndie-voidsuit-desc = A lightweight and lightly-armoured voidsuit designed for covert operations. Protects well against bullets and lasers, but keep your distance from melee weapons.

@@ -350,9 +350,6 @@ uplink-hardsuit-syndieelite-desc = An elite version of the blood-red hardsuit, w
 uplink-clothing-outer-hardsuit-juggernaut-name = Cybersun Juggernaut Suit
 uplink-clothing-outer-hardsuit-juggernaut-desc = Hyper resilient armor made of materials tested in the Tau chromosphere facility. The only thing that's going to be slowing you down is this suit... and tasers.
 
-uplink-syndie-voidsuit-name = Tactical Voidsuit
-uplink-syndie-voidsuit-desc = A lightweight and lightly-armoured voidsuit designed for covert operations. Protects well against bullets and lasers, but keep your distance from melee weapons.
-
 # Misc
 uplink-cyberpen-name = Cybersun Pen
 uplink-cyberpen-desc = Cybersun's legal department pen, invaluable for forging documents and escaping prisons. Smells vaguely of hard-light and war profiteering.
